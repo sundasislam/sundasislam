@@ -3,7 +3,7 @@
 <img align="right" alt="coder" width="400px" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundasislam&label=Profile%20views&color=0e75b6&style=flat" alt="sundasislam" /> </p>
 
-- 📫 How to reach me **sundasshaeikh54@gmail.com**
+- 📫 How to reach me **sundassheikh54@gmail.com**
 - I'm currently learning javascript
 
 <h3 align="left">Connect with me:</h3>
