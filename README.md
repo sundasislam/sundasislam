@@ -1,4 +1,4 @@
-![Header](https://github.com/sundasislam/sundasislam/blob/main/github-header-image.png?raw=true)
+![Header](https://github.com/sundasislam/sundasislam/blob/main/github-header-image%20(3).png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Sundas</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
